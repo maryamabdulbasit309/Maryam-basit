@@ -8,192 +8,100 @@ tags: [pf, programming, engineering]
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Maryam Basit | Premium Portfolio</title>
-
+<title>Portfolio</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-
-<style>
-body {
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #020617, #0f172a);
-  color: #e2e8f0;
-}
-
-header {
-  text-align: center;
-  padding: 80px 20px;
-  background: linear-gradient(120deg, #38bdf8, #6366f1);
-  color: white;
-}
-
-header h1 {
-  font-size: 50px;
-  margin: 0;
-}
-
-header p {
-  font-size: 18px;
-}
-
-nav {
-  text-align: center;
-  padding: 15px;
-  background: #020617;
-  position: sticky;
-  top: 0;
-}
-
-nav a {
-  color: #38bdf8;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-section {
-  padding: 60px 20px;
-  max-width: 1100px;
-  margin: auto;
-}
-
-h2 {
-  color: #38bdf8;
-  margin-bottom: 20px;
-}
-
-.card {
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(10px);
-  padding: 25px;
-  margin: 20px 0;
-  border-radius: 20px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-  transition: 0.4s;
-}
-
-.card:hover {
-  transform: scale(1.03);
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-}
-
-.progress {
-  background: #1e293b;
-  border-radius: 20px;
-  overflow: hidden;
-  margin: 10px 0;
-}
-
-.progress-bar {
-  height: 10px;
-  background: #38bdf8;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #020617;
-}
-
-button {
-  padding: 10px 20px;
-  border: none;
-  border-radius: 20px;
-  background: #38bdf8;
-  color: black;
-  cursor: pointer;
-}
-
-</style>
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
 
 <header>
   <h1>Maryam Basit</h1>
-  <p>Computer Engineering Student | From Confusion to Confidence 🚀</p>
+  <p>Computer Engineering Student | Growth Through Challenges 🚀</p>
 </header>
 
 <nav>
   <a href="#journey">Journey</a>
   <a href="#projects">Projects</a>
   <a href="#skills">Skills</a>
-  <a href="#goals">Goals</a>
+  <a href="#posts">Posts</a>
+  <a href="#contact">Contact</a>
 </nav>
 
 <section id="journey">
 <h2>✨ My Journey</h2>
 <div class="card">
-<p>
-I started my Computer Engineering journey from a pre-engineering background where coding felt completely unfamiliar.
-Errors confused me, syntax felt difficult, and writing code on paper during exams was even more challenging.
-
-But instead of quitting, I kept practicing, learning from mistakes, and slowly building confidence.
-Today, I see those struggles as the foundation of my growth.
-</p>
+<p>I started my journey from a pre-engineering background where coding was completely new. I faced confusion, errors, and difficulty in understanding syntax. Writing code on paper during exams was even more challenging.</p>
+<p>But with consistency, practice, and patience, I improved my problem-solving skills and gained confidence.</p>
 </div>
 </section>
 
 <section id="projects">
 <h2>💻 Projects</h2>
 <div class="grid">
-  <div class="card">
-    <h3>Student Result System</h3>
-    <p>Built using C# with OOP to manage student records.</p>
-  </div>
-  <div class="card">
-    <h3>Profit & Loss Calculator</h3>
-    <p>Calculates business profit/loss with percentage.</p>
-  </div>
-  <div class="card">
-    <h3>File Upload Page</h3>
-    <p>Simple HTML page for uploading files to GitHub.</p>
-  </div>
+<div class="card"><h3>Student Result System</h3><p>C# OOP-based project.</p></div>
+<div class="card"><h3>Profit & Loss Calculator</h3><p>Business logic implementation.</p></div>
+<div class="card"><h3>File Upload Page</h3><p>HTML GitHub upload system.</p></div>
 </div>
 </section>
 
 <section id="skills">
 <h2>🚀 Skills</h2>
 <div class="card">
-  <p>C#</p>
-  <div class="progress"><div class="progress-bar" style="width:80%"></div></div>
-
-  <p>HTML</p>
-  <div class="progress"><div class="progress-bar" style="width:70%"></div></div>
-
-  <p>SQL</p>
-  <div class="progress"><div class="progress-bar" style="width:60%"></div></div>
+<p>C#</p>
+<div class="progress"><div class="progress-bar" style="width:80%"></div></div>
+<p>HTML</p>
+<div class="progress"><div class="progress-bar" style="width:70%"></div></div>
+<p>SQL</p>
+<div class="progress"><div class="progress-bar" style="width:60%"></div></div>
 </div>
 </section>
 
-<section id="goals">
-<h2>🎯 Future Goals</h2>
+<section id="posts">
+<h2>📝 My Posts</h2>
 <div class="card">
-<ul>
-<li>Become a professional software engineer</li>
-<li>Build real-world impactful projects</li>
-<li>Help beginners learn programming</li>
-</ul>
+<input type="text" id="postTitle" placeholder="Post Title" style="width:100%;padding:10px;margin-bottom:10px;border-radius:10px;border:none;">
+<textarea id="postContent" placeholder="Write your post here..." style="width:100%;padding:10px;border-radius:10px;border:none;"></textarea>
+<br><br>
+<button onclick="addPost()">Add Post</button>
 </div>
+
+<div id="postContainer"></div>
 </section>
 
-<section>
+<section id="contact">
 <h2>📩 Contact</h2>
 <div class="card">
 <p>Email: your-email@example.com</p>
-<button onclick="alert('Thanks for visiting!')">Say Hello 👋</button>
 </div>
 </section>
 
 <footer>
-<p>© 2026 Maryam Basit | Designed with Passion 💙</p>
+<p>© 2026 Maryam Basit | Keep Growing 💙</p>
 </footer>
+
+<script>
+function addPost() {
+  let title = document.getElementById('postTitle').value;
+  let content = document.getElementById('postContent').value;
+
+  if(title === '' || content === '') {
+    alert('Please fill both fields');
+    return;
+  }
+
+  let postDiv = document.createElement('div');
+  postDiv.className = 'card';
+  postDiv.innerHTML = `<h3>${title}</h3><p>${content}</p>`;
+
+  document.getElementById('postContainer').prepend(postDiv);
+
+  document.getElementById('postTitle').value = '';
+  document.getElementById('postContent').value = '';
+}
+</script>
 
 </body>
 </html>
+
 
