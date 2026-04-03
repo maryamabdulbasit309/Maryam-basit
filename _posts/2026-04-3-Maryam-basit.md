@@ -58,22 +58,25 @@ tags: [pf, programming, engineering]
 
 <section id="blog">
 <h2>📝 My Blog</h2>
+
 <div class="card">
-<p>This section is connected to my GitHub blog posts.</p>
-<p>Click below to read all my posts:</p>
-<a href="/Maryam-basit/_posts" target="_blank">
-<button>View My Posts</button>
-</a>
+<h3>My Programming Journey</h3>
+<p>I faced many problems in coding at the beginning, but I improved step by step.</p>
+<a href="post1.html" target="_blank"><button>Read Post</button></a>
 </div>
 
 <div class="card">
-<h3>Latest Post</h3>
-<p>👉 My Programming Journey</p>
-<p>A story about my struggles, errors, and growth in coding.</p>
-<a href="/Maryam-basit/_posts/2026-04-3-Maryam-basit.html" target="_blank">
-<button>Read Post</button>
-</a>
+<h3>Understanding Errors</h3>
+<p>Errors are not enemies, they help us learn programming better.</p>
+<a href="post2.html" target="_blank"><button>Read Post</button></a>
 </div>
+
+<div class="card">
+<h3>My First Coding Experience</h3>
+<p>My first time writing code was confusing but exciting.</p>
+<a href="post3.html" target="_blank"><button>Read Post</button></a>
+</div>
+
 </section>
 
 <section id="contact">
@@ -90,3 +93,4 @@ tags: [pf, programming, engineering]
 
 </body>
 </html>
+
