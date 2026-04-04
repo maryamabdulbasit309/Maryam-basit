@@ -3,94 +3,16 @@ title: "CE journey"
 date: 2026-04-3
 categories: [Blogging, Programming]
 tags: [pf, programming, engineering]
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Portfolio</title>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
-</head>
+---
+1. Introduction to Programming Fundamentals
 
-<body>
+Programming Fundamentals is the starting point of every computer engineering journey. It introduces essential concepts such as variables, data types, loops, and conditional statements, which form the backbone of all programming languages. By understanding how these elements work together, students begin to see how real-world problems can be translated into logical steps that a computer can follow. This stage is not just about memorizing syntax, but about building a strong mindset for problem-solving and logical thinking.
 
-<header>
-  <h1>Maryam Basit</h1>
-  <p>Computer Engineering Student | Portfolio + Blog 🚀</p>
-</header>
+2. Practical Learning Through Small Projects
 
-<nav>
-  <a href="#journey">Journey</a>
-  <a href="#projects">Projects</a>
-  <a href="#skills">Skills</a>
-  <a href="#blog">Blog</a>
-  <a href="#contact">Contact</a>
-</nav>
+As students practice writing simple programs, such as calculators or grading systems, they gradually develop confidence in their coding abilities. These small projects may seem basic, but they play a huge role in strengthening understanding and improving accuracy. Debugging errors during this process also teaches patience and attention to detail, which are important qualities for any programmer.
 
-<section id="journey">
-<h2>✨ My Journey</h2>
-<div class="card">
-<p>I started from a pre-engineering background where coding was difficult. I faced many errors and confusion, but I improved with practice and consistency.</p>
-</div>
-</section>
+3. Developing Problem-Solving and Advanced Skills
 
-<section id="projects">
-<h2>💻 Projects</h2>
-<div class="grid">
-<div class="card"><h3>Student Result System</h3><p>C# OOP-based project.</p></div>
-<div class="card"><h3>Profit & Loss Calculator</h3><p>Business logic implementation.</p></div>
-<div class="card"><h3>File Upload Page</h3><p>HTML GitHub upload system.</p></div>
-</div>
-</section>
-
-<section id="skills">
-<h2>🚀 Skills</h2>
-<div class="card">
-<p>C#</p>
-<div class="progress"><div class="progress-bar" style="width:80%"></div></div>
-<p>HTML</p>
-<div class="progress"><div class="progress-bar" style="width:70%"></div></div>
-<p>SQL</p>
-<div class="progress"><div class="progress-bar" style="width:60%"></div></div>
-</div>
-</section>
-
-<section id="blog">
-<h2>📝 My Blog</h2>
-
-<div class="card">
-<h3>My Programming Journey</h3>
-<p>I faced many problems in coding at the beginning, but I improved step by step.</p>
-<a href="post1.html" target="_blank"><button>Read Post</button></a>
-</div>
-
-<div class="card">
-<h3>Understanding Errors</h3>
-<p>Errors are not enemies, they help us learn programming better.</p>
-<a href="post2.html" target="_blank"><button>Read Post</button></a>
-</div>
-
-<div class="card">
-<h3>My First Coding Experience</h3>
-<p>My first time writing code was confusing but exciting.</p>
-<a href="post3.html" target="_blank"><button>Read Post</button></a>
-</div>
-
-</section>
-
-<section id="contact">
-<h2>📩 Contact</h2>
-<div class="card">
-<p>Email: your-email@example.com</p>
-<p>GitHub: github.com/your-username</p>
-</div>
-</section>
-
-<footer>
-<p>© 2026 Maryam Basit | Portfolio + Blog 💙</p>
-</footer>
-
-</body>
-</html>
+Moreover, learning programming fundamentals helps students break down complex problems into smaller, manageable parts. This skill becomes extremely useful in advanced courses and real-world applications. Over time, consistent practice and experimentation allow students to think more creatively and efficiently. Overall, mastering programming fundamentals sets a solid base for future learning in software development, database systems, and other specialized areas of computer engineering.
 
