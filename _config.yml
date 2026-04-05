@@ -16,7 +16,7 @@ description: >
 url: "https://maryamabdulbasit309.github.io"
 baseurl: "/Maryam-basit"
 
-timezone:
+timezone: Asia/Karachi
 
 # ------------------- PROFILE -------------------
 
@@ -48,13 +48,13 @@ toc: true
 
 paginate: 10
 
-# ------------------- ANALYTICS (leave empty) -------------------
+# ------------------- ANALYTICS -------------------
 
 analytics:
   google:
     id:
 
-# ------------------- COMMENTS (disabled) -------------------
+# ------------------- COMMENTS -------------------
 
 comments:
   provider:
@@ -66,12 +66,14 @@ pwa:
   cache:
     enabled: true
 
-# ------------------- DEFAULTS -------------------
+# ------------------- COLLECTIONS -------------------
 
 collections:
   tabs:
     output: true
     sort_by: order
+
+# ------------------- DEFAULTS -------------------
 
 defaults:
   - scope:
