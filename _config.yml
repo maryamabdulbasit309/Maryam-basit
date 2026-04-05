@@ -9,6 +9,9 @@ theme: jekyll-theme-chirpy
 lang: en
 title: CE journey
 tagline: Maryam insights
+google_fonts:
+  - name: "Poppins"
+    weights: "400,600,700"
 
 avatar: /assets/img/m.jpg  
 
@@ -96,7 +99,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
