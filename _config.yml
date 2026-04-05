@@ -37,6 +37,13 @@ github:
 
 theme_mode: dark
 
+#-------------------- CONTACT DETAILS---------------
+
+header_pages:
+  - index.md
+  - blog.md
+  - contact.md
+
 # ------------------- FEATURES -------------------
 
 toc: true
