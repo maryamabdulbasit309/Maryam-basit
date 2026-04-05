@@ -1,13 +1,12 @@
-# The Site Configuration
+# ------------------- THEME -------------------
 
 theme: jekyll-theme-chirpy
-
 lang: en
 
 # ------------------- BASIC INFO -------------------
 
-title: My CE Journey
-tagline: Debugging My Dreams: A Computer Engineering Journey
+title: "Debugging My Dreams"
+tagline: "A Computer Engineering Journey by Maryam"
 
 description: >
   A personal blog documenting my Computer Engineering journey,
@@ -20,19 +19,19 @@ timezone: Asia/Karachi
 
 # ------------------- PROFILE -------------------
 
-avatar: /assets/img/m.jpg
+avatar: "/assets/img/m.jpg"
 
 author:
-  name: Maryam Abdul Basit
-  bio: Computer Engineering student sharing my journey and learning experiences.
+  name: "Maryam Abdul Basit"
+  bio: "Computer Engineering student sharing my journey and learning experiences."
 
 social:
-  name: Maryam Abdul Basit
+  name: "Maryam Abdul Basit"
   links:
-    - https://github.com/maryamabdulbasit309
+    - "https://github.com/maryamabdulbasit309"
 
 github:
-  username: maryamabdulbasit309
+  username: "maryamabdulbasit309"
 
 # ------------------- DESIGN -------------------
 
@@ -41,7 +40,6 @@ theme_mode: dark
 # ------------------- FEATURES -------------------
 
 toc: true
-
 paginate: 10
 
 # ------------------- ANALYTICS -------------------
