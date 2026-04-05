@@ -34,4 +34,4 @@ categories: [My CE journey]
 
 <h2>8. Conclusion</h2>
 
-<p>This journey is still ongoing, and I continue to learn every day. What once felt impossible is now becoming manageable. I believe this is just the beginning of my journey in computer engineering</p>
+<p>This journey is still ongoing, and I continue to learn every day. What once felt impossible is now becoming manageable. I believe this is just the beginning of my journey in computer engineering.</p>
