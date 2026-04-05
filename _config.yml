@@ -10,10 +10,11 @@ lang: en
 title: CE journey
 tagline: Maryam insights
 
+avatar: /assets/img/m.jpg  
+
 author:
   name: Maryam Abdul Basit
-  bio: A Computer Engineering student sharing my journey and learning experience.
-  avatar: /assets/img/m.jpg
+  bio: Computer Engineering student sharing my journey
 # Change to your timezone › https://zones.arilyn.cc
 timezone:
 
