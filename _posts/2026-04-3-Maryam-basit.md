@@ -1,18 +1,38 @@
 ---
-title: "CE journey"
+title: " My CE journey"
 date: 2026-04-3
 categories: [Blogging, Programming]
 tags: [pf, programming, engineering]
 ---
-1. Introduction to Programming Fundamentals
 
-Programming Fundamentals is the starting point of every computer engineering journey. It introduces essential concepts such as variables, data types, loops, and conditional statements, which form the backbone of all programming languages. By understanding how these elements work together, students begin to see how real-world problems can be translated into logical steps that a computer can follow. This stage is not just about memorizing syntax, but about building a strong mindset for problem-solving and logical thinking.
+<h2>1. Introduction</h2>
 
-2. Practical Learning Through Small Projects
+<p>My name is Maryam Abdul Basit. I completed my intermediate (FSc) in pre-engineering. At that time, I did not have much knowledge about computers. My understanding was limited to basic usage, and I had no idea about programming or how coding works.</p>
 
-As students practice writing simple programs, such as calculators or grading systems, they gradually develop confidence in their coding abilities. These small projects may seem basic, but they play a huge role in strengthening understanding and improving accuracy. Debugging errors during this process also teaches patience and attention to detail, which are important qualities for any programmer.
+<h2>2. ECAT and Admission Challenges</h2>
 
-3. Developing Problem-Solving and Advanced Skills
+<p>Preparing for ECAT was a very challenging phase for me because I just applied for entry test on the very last day because of my board exams and I got no time for preparation, didn't even got material for preparation. It required a lot of effort, consistency, and patience. After the result, due to merit limitations, I was unable to secure admission in the main campus, which was quite disappointing for me.</p>
 
-Moreover, learning programming fundamentals helps students break down complex problems into smaller, manageable parts. This skill becomes extremely useful in advanced courses and real-world applications. Over time, consistent practice and experimentation allow students to think more creatively and efficiently. Overall, mastering programming fundamentals sets a solid base for future learning in software development, database systems, and other specialized areas of computer engineering.
+<h2>3. Transition to University Life</h2>
 
+<p>After getting admission, I moved to hostel life. Becoming a hostelite was a completely new experience. Living away from home, managing daily tasks independently, and adjusting to a new environment was not easy at first, but gradually I adapted. </p>
+
+<h2>4. First Encounter with Programming</h2>
+
+<p>When I started studying programming, I found it extremely difficult. Everything was new to me. Writing code, understanding logic, and dealing with errors felt overwhelming. We studied python in our first semester.</p>
+
+<h2>5. Struggles with Errors</h2>
+
+<p>One of the biggest challenges was dealing with errors. My code often did not run, and I could not understand where the problem was. Whether it was syntax errors or logical mistakes, identifying and fixing them was very difficult for me.</p>
+
+<h2>6. Learning Process</h2>
+
+<p>With time and practice, things started to improve. I began to understand how to read errors and find solutions. I used online resources like Google and YouTube to learn and improve my skills. Solving small problems helped me build confidence step by step.</p>
+
+<h2>7. Growth and Realization</h2>
+
+<p>Although the journey has not been easy, it has helped me grow stronger. I have learned that struggling is an important part of learning. Every challenge has taught me something valuable.</p>
+
+<h2>8. Conclusion</h2>
+
+<p>This journey is still ongoing, and I continue to learn every day. What once felt impossible is now becoming manageable. I believe this is just the beginning of my journey in computer engineering 🚀</p>
