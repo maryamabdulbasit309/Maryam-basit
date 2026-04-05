@@ -38,10 +38,6 @@ github:
 
 theme_mode: dark
 
-google_fonts:
-  - name: "Poppins"
-    weights: "400,600,700"
-
 # ------------------- FEATURES -------------------
 
 toc: true
