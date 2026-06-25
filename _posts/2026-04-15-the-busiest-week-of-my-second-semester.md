@@ -9,15 +9,15 @@ categories: [My CE journey]
 
 ## Introduction
 
-As my second semester at UET Lahore, Faisalabad Campus approached its end, I experienced one of the busiest and most challenging weeks of my academic journey. Throughout the semester, I had learned many technical concepts and worked on multiple projects, but nothing truly prepared me for the pressure that accumulated during the final weeks.
+As my second semester at UET Lahore, Faisalabad Campus approached to its end, I experienced one of the busiest and most challenging weeks of my academic journey. Throughout the semester, I had learned many technical concepts and worked on multiple projects, but nothing truly prepared me for the pressure that accumulated during the final weeks.
 
 Looking back, this period was exhausting, stressful, and demanding. At the same time, it taught me some of the most valuable lessons about time management, preparation, and consistency.
 
 ## Multiple Deadlines Arriving Together
 
-One of the biggest challenges was that many deadlines arrived at almost the same time. Assignments, quizzes, project work, and exam preparation all demanded attention simultaneously.
+One of the biggest challenges was that several deadlines arrived almost the same time. Assignments, quizzes, project work, and exam preparation all demanded attention simultaneously.
 
-Instead of focusing on a single subject, I had to divide my time among several courses. Every day seemed to bring a new task or deadline. Sometimes it felt as if completing one responsibility immediately revealed another waiting to be finished.
+Instead of focusing on a single subject, I had to divide my time equally among several courses. Each day seemed to bring a new task or deadline. Ocassionally it revealed by completing one responsibility was queued to be finished.
 
 This experience showed me how quickly workload can accumulate when tasks are postponed until the final weeks of the semester.
 
@@ -25,9 +25,9 @@ This experience showed me how quickly workload can accumulate when tasks are pos
 
 Database Systems was one of the subjects that required significant attention during this period.
 
-We were completing our database project while also managing assignments and preparing for assessments. Since the project involved working with a real kidney disease dataset, database design, ER diagrams, normalization, and documentation all required careful effort.
+We were completing our database project while also managing assignments and preparing for assessments. Since the project involved working with a real kidney disease dataset, database design, ER diagrams, normalization, and documentation all required careful attention and effort.
 
-At this stage, I finally understood why proper planning is so important in project development. Any unfinished work from previous weeks became additional pressure during the final days.
+At this stage, I finally understood why proper planningand time managing is so important in project development. Any unfinished work from previous weeks became additional pressure during the final days.
 
 ## Managing DLD Quizzes and Tasks
 
@@ -65,7 +65,7 @@ There were times when it felt as though the entire day was spent moving from one
 
 One thing I remember clearly about that week was how busy everything became.
 
-Because of continuous classes, project work, assignments, and preparation, there were days when I hardly found enough time to sit down and eat properly. Sometimes meals were delayed because another task seemed more urgent.
+Because of continuous classes, project work, assignments, and preparation, there were days when I hardly found enough time to sit down and eat properly. Sometimes meals were skipped or delayed because another task seemed more urgent.
 
 Although this situation was temporary, it showed me how important balance is. Academic success is important, but maintaining personal well-being is equally necessary.
 
