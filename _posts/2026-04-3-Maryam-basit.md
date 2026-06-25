@@ -36,3 +36,9 @@ tags: [pf, programming, engineering]
 <h2>8. Conclusion</h2>
 
 <p>This journey is still ongoing, and I continue to learn every day. What once felt impossible is now becoming manageable. I believe this is just the beginning of my journey in computer engineering .</p>
+## Looking Ahead
+
+This experience strengthened my interest in problem solving and prepared me for the challenges of my second semester, which I will discuss in my next post, "From Programming Fundamentals to My Second Semester."
+
+#DrBilalAhmad
+#MLwithDrBilalAhmad
