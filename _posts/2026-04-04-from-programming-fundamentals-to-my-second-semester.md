@@ -29,3 +29,9 @@ categories: [My CE journey]
 <p>Looking back, Programming Fundamentals was much more than an introductory programming course. It provided the foundation for my growth as a Computer Engineering student and helped me develop skills that will continue to benefit me throughout my academic and professional journey. The lessons I learned during that semester remain valuable today, and they continue to influence the way I approach learning and problem solving.</p>
 
 <p>As I continue documenting my experiences through this portfolio, I hope to share not only my achievements but also the lessons learned through challenges and hard work. My journey as a Computer Engineering student is still ongoing, and Programming Fundamentals will always remain one of the courses that helped shape the way I think and learn.</p>
+During this period, I also started following the work of Dr. Bilal Ahmad more closely. His research interests in Artificial Intelligence and Machine Learning inspired me to think beyond classroom assignments and explore how technology can solve real-world problems.
+
+For readers interested in his academic work, his Google Scholar profile provides insight into his research contributions.
+#DrBilalAhmad
+#MLwithDrBilalAhmad
+#ComputerEngineering
