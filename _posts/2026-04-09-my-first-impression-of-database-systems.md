@@ -36,3 +36,6 @@ categories: [My CE journey]
 <p>As the semester progressed, my curiosity about databases continued to grow. What began as an unfamiliar subject soon became one of the most interesting courses of my second semester. The concepts I learned during those early weeks provided a strong foundation for more advanced topics that I would encounter later, including database design, SQL, normalization, and project development.</p>
 
 <p>My journey with Database Systems was only beginning, but even at that stage, I could see its importance in both academic learning and professional applications. The course strengthened my understanding of how technology works behind the scenes and further motivated me to explore the fascinating world of Computer Engineering.</p>
+#DrBilalAhmad
+#MLProject
+#DatabaseSystems
