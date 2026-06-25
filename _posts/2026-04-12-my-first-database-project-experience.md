@@ -65,3 +65,6 @@ Most importantly, I learned that theoretical concepts become much easier to unde
 Looking back, this was one of the most valuable learning experiences of my second semester at UET Lahore, Faisalabad Campus. Working with a real healthcare dataset, exploring machine learning concepts, and designing a database helped me understand how different areas of Computer Engineering work together.
 
 The project transformed my understanding of databases from a classroom subject into a practical technology that supports modern applications. It also showed me how the knowledge gained from Programming Fundamentals and Database Systems can be applied to solve real-world problems. This experience strengthened my interest in data-driven technologies and motivated me to continue exploring the exciting fields of databases, Artificial Intelligence, and Machine Learning.
+#DrBilalAhmad
+#MLProject
+#DatabaseSystems
