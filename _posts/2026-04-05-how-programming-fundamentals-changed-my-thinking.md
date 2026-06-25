@@ -34,3 +34,8 @@ categories: [My CE journey]
 <p>Looking back, the course transformed my perspective in ways I never expected. It taught me to think critically, analyze situations carefully, and approach challenges with confidence. These skills extend far beyond programming and continue to influence every aspect of my academic journey. While learning syntax and coding techniques was important, the greatest lesson was developing a mindset focused on logic, persistence, and continuous improvement.</p>
 
 <p>Today, I consider Programming Fundamentals one of the most influential courses of my university experience. It laid the foundation for future learning and helped me develop skills that will remain valuable throughout my career. As I continue my journey as a Computer Engineering student, I am grateful for the lessons learned during that semester and for the guidance that helped me discover the importance of logical thinking in both technology and everyday life.</p>
+As I mentioned in my previous post, Programming Fundamentals became the foundation of my learning journey. During my second semester, I began seeing how those concepts connected with more advanced subjects.
+
+#DrBilalAhmad
+#MLwithDrBilalAhmad
+#ComputerEngineering
